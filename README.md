@@ -43,6 +43,14 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ## News
 
+- **[20260316]** **NVIDIA GTC 2026: Announcing partnerships with Texas Instruments to accelerate safe deployment of humanoid robots** [[Blog](https://blogs.nvidia.com/blog/gtc-2026-news/)] [[Robotics 24/7](https://www.robotics247.com/article/nvidia-gtc-2026-texas-instruments-nvidia-partner-to-accelerate-safe-deployment-of-humanoids)]
+
+- **[20260312]** **Tesla unveils third-generation Optimus humanoid robot at AWE 2026 in Shanghai, featuring 22-DoF hands and 8-hour battery life** [[News](https://chinaroboticsdaily.com/tesla-optimus-gen-3-awe-2026/)]
+
+- **[20260127]** **Figure AI introduces Helix 02: Full-Body Autonomy for humanoid robots, achieving 67 consecutive hours of autonomous work** [[Website](https://www.figure.ai/news/helix-02)]
+
+- **[202601]** **NVIDIA unveils Isaac GR00T N1.6 foundation model for humanoid robots at CES 2026** [[Project](https://research.nvidia.com/labs/gear/gr00t-n1_6/)] [[Github](https://github.com/NVIDIA/Isaac-GR00T)] [[HuggingFace](https://huggingface.co/nvidia/GR00T-N1.6-3B)]
+
 - **[202508]** **The First Humanoid Robot Games** [[Website](https://www.whrgoc.com/)]
 
 - **[20250730]** **X-Humanoid releases Humanoid Occupancy, a generalized multimodal perception system for humanoid robots** [[Project](https://humanoid-occupancy.github.io/)]
@@ -101,7 +109,37 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ## Papers
 
+### 2026
+
+- [2026] [Manipulation] HumDex: Humanoid Dexterous Manipulation Made Easy [[paper](https://arxiv.org/abs/2603.12260)] [[code](https://github.com/physical-superintelligence-lab/humdex)]
+
+- [2026] Cybo-Waiter: A Physical Agentic Framework for Humanoid Whole-Body Locomotion-Manipulation [[paper](https://arxiv.org/abs/2603.10675)]
+
+- [2026] [WBC] ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation [[paper](https://arxiv.org/abs/2603.03279)]
+
+- [2026] [Manipulation] UniHM: Unified Dexterous Hand Manipulation with Vision Language Model [[paper](https://arxiv.org/abs/2603.00732)] [[project](https://unihm.github.io/)]
+
+- [2026] Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching [[paper](https://arxiv.org/abs/2602.15827)]
+
+- [2026] [WBC] FAST: General Humanoid Whole-Body Control via Pretraining and Fast Adaptation [[paper](https://arxiv.org/abs/2602.11929)]
+
+- [2026] Now You See That: Learning End-to-End Humanoid Locomotion from Raw Pixels [[paper](https://arxiv.org/abs/2602.06382)]
+
+- [2026] [WBC] XHugWBC: Scalable and General Whole-Body Control for Cross-Humanoid Locomotion [[paper](https://arxiv.org/abs/2602.05791)]
+
+- [2026] [WBC] EAGLE: Embodiment-Aware Generalist Specialist Distillation for Unified Humanoid Whole-Body Control [[paper](https://arxiv.org/abs/2602.02960)] [[project](https://eagle-wbc.github.io/)]
+
+- [2026] PILOT: A Perceptive Integrated Low-level Controller for Loco-manipulation over Unstructured Scenes [[paper](https://arxiv.org/abs/2601.17440)]
+
 ### 2025
+
+- [2025] EGM: Efficiently Learning General Motion Tracking Policy for High Dynamic Humanoid Whole-Body Control [[paper](https://arxiv.org/abs/2512.19043)]
+
+- [2025] WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control [[paper](https://arxiv.org/abs/2512.11047)]
+
+- [2025] Gait-Adaptive Perceptive Humanoid Locomotion with Real-Time Under-Base Terrain Reconstruction [[paper](https://arxiv.org/abs/2512.07464)] [[project](https://ga-phl.github.io/)]
+
+- [2025] Learning Adaptive Neural Teleoperation for Humanoid Robots: From Inverse Kinematics to End-to-End Control [[paper](https://arxiv.org/abs/2511.12390)]
 
 - [2025] [WBC] BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning [[paper](https://www.alphaxiv.org/abs/2511.04131)]
 
